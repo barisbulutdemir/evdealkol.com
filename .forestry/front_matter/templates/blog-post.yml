@@ -1,0 +1,27 @@
+---
+label: Blog Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: file
+  name: image
+  label: image
+- type: text
+  name: description
+  label: description
+- type: list
+  name: tags
+  label: tags
+- type: list
+  name: categories
+  label: categories
+pages:
+- content/post/portatif-damıtma-cihazı.md
+- content/post/alkolde-baş-göbek-kuyruk-ayrımı-neden-önemli.md
+- content/post/hangi-i̇mbik-i̇şimi-görür.md
+- content/post/konumuz-ne.md
