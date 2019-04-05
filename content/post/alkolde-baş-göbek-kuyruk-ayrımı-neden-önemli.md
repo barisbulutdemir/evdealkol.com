@@ -2,7 +2,6 @@
 categories = []
 date = "2019-04-03T21:00:00+00:00"
 description = ""
-draft = true
 image = "/alkl-750x410.jpg"
 tags = []
 title = "Alkolde Baş-Göbek-Kuyruk Ayrımı Neden Önemli?"
