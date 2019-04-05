@@ -3,7 +3,7 @@ title = "Evde Alkol"
 theme = "swift"
 copyright = "Copyright © 2019"
 canonifyurls = true
-paginate = 4
+paginate = 10
 [params]
   staticman = false
   description = "Evde alkol, meze ve ötesi"
