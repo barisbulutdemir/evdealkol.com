@@ -1,8 +1,8 @@
-baseurl = "https://evdealkol.netlify.com/"
+baseurl = "https://evdealkol.netlify.com"
 title = "Evde Alkol"
 theme = "swift"
 copyright = "Copyright © 2019"
 canonifyurls = true
 paginate = 4
 [params]
-  staticman = false
+  staticman = true
