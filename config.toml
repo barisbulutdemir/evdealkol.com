@@ -1,4 +1,4 @@
-baseurl = "https://www.evdealkol.com"
+baseurl = "https://www.evdealkol.com/"
 title = "Evde Alkol"
 theme = "swift"
 copyright = "Copyright © 2019"
