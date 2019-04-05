@@ -18,6 +18,7 @@
   </article>
 	
 	{{ template "_internal/disqus.html" . }}
+	{{ partial "disqus.html" . }}
 	
 	
   {{ if eq .Site.Params.staticman true }}{{ partial "comments.html" . }}{{ end }}
