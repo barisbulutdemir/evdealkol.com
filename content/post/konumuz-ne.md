@@ -2,7 +2,7 @@
 categories = []
 date = "2019-04-03T21:00:00+00:00"
 description = "Evde nasıl alkol üretebileceğinizi ve neler yapabileceğinizi anlatmaya çalışıyorum."
-image = "/images/evdealkol.jpg"
+image = "/evdealkol.jpg"
 tags = []
 title = "Konumuz Ne ?"
 
