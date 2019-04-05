@@ -2,7 +2,6 @@
 categories = []
 date = "2019-04-03T21:00:00+00:00"
 description = "Seviyelere göre seçmeniz gereken imbikleri sizin için sundum."
-draft = true
 image = "/alkol-1-710x410.jpg"
 tags = []
 title = "Hangi İmbik İşimi Görür ?"
