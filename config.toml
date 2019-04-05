@@ -5,4 +5,11 @@ copyright = "Copyright © 2019"
 canonifyurls = true
 paginate = 4
 [params]
-  staticman = true
+  staticman = false
+  description = "Evde alkol, meze ve ötesi"
+  
+  
+[permalinks]
+post = "/:slug/"
+
+disqusShortname = "evdealkol"
