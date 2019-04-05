@@ -1,7 +1,7 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: evdealkol.com/admin
+admin_path: https://evdealkol.com/admin
 webhook_url: 
 sections:
 - type: directory
