@@ -12,10 +12,16 @@ url = "hammaddeler-meyveler-ve-seker-oranları"
 
 <br>
 
- **Hammaddeler                                           Şeker Oranları %**
+ **Hammaddeler        -             Şeker Oranları %**
 
 <hr>
 
-Armut                                                               9.8
+Armut                     -                          9.8
 
 <hr>
+
+Arpa Maltı                   -                     68
+
+<hr>
+
+Bal                                -                     80
