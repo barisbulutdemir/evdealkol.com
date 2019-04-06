@@ -15,7 +15,7 @@ Yalnız en gerekli olan imbik olayı başlı başına bir konu olduğu için onu
 
 Öncelikle yasal mevzuatından bahsediyim. **İçeceğiniz kadar üretirseniz problem yok. Maksimum yılda 350 litre. Satmak kesinlikle yasak. Satmaya kalkar ve yakalanırsanız gerçekten başınız ağrır.. Alkol kaçakçısı olarak suçlu duruma düşersiniz..**
 
-    ## Karışım Hazırlama
+**_##_ Karışım Hazırlamak**
 
 İlk olarak yapmamız gereken 3-4 hafta duracak bir karışım hazırlamak.(Buna mayşe diyoruz) _Ufak bir bilgi: İçinde şeker barındıran herşeyden alkol yapabilirsiniz. Evet mandalinadan bile :)_ Biz şuan en teferruatsız ve masrafsız şekilde hazırlicaz. Başka bir konuda meyvelerin, hammaddelerin şeker oranlarını paylaşıcam. En kolay hangi meyveden neyden yapılabilir ordan bakabilirsiniz.( linki: )
 
