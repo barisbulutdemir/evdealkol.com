@@ -1,8 +1,12 @@
 <div class = 'nav-drop'>
   <div class = 'nav-body'>
-  {{ range .Site.Data.menu }}
-    <a href = '{{ .url | absURL }}'>{{ .item }}</a>
-  {{ end }}
+	  
+
+    {{ $currentPage := . }}
+    {{ range .Site.Menus.main }}
+    <a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+    {{ end }}
+
     <div class = 'nav-close'></div>
   </div>
 </div>

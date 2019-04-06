@@ -13,3 +13,13 @@ paginate = 4
 post = "/:slug/"
 
 disqusShortname = "evdealkol"
+
+
+[menu]
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "This is the blog section"
+    title = "blog section"
+    url = "/blog/"
+    weight = -110
