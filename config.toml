@@ -1,25 +1,18 @@
 baseurl = "https://www.evdealkol.com/"
-title = "Evde Alkol"
-theme = "swift"
-copyright = "Copyright © 2019"
 canonifyurls = true
+copyright = "Copyright © 2019"
 paginate = 4
+theme = "swift"
+title = "Evde Alkol"
+[[menu.main]]
+identifier = "blog"
+name = "Üretim"
+title = "blog section"
+url = "/blog/"
+weight = 1
 [params]
-  staticman = false
-  description = "Evde alkol, meze ve ötesi"
-  
-  
+description = "Evde alkol, meze ve ötesi"
+staticman = false
 [permalinks]
-post = "/:slug/"
-
 disqusShortname = "evdealkol"
-
-
-[menu]
-
-  [[menu.main]]
-    identifier = "blog"
-    name = "This is the blog section"
-    title = "blog section"
-    url = "/blog/"
-    weight = -110
+post = "/:slug/"
