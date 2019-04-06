@@ -10,5 +10,12 @@ url = "hammaddeler-meyveler-ve-seker-oranları"
 +++
 # Alkol üretiminde kullanılan hammaddeler ve şeker oranları
 
-#   
-![](/hammaddevesekeroranları.jpg)
+<br>
+
+ **Hammaddeler                                           Şeker Oranları %**
+
+<hr>
+
+Armut                                                               9.8
+
+<hr>
