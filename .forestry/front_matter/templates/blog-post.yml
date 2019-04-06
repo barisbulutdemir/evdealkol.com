@@ -12,6 +12,13 @@ fields:
   name: image
   label: image
 - type: text
+  hidden: false
+  config:
+    required: false
+  label: url/
+  name: url/
+  description: Adres ( Türkçe Karakter Olmadan)
+- type: text
   name: description
   label: description
 - type: list
