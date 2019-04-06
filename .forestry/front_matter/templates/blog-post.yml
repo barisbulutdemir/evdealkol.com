@@ -28,6 +28,7 @@ fields:
   name: categories
   label: categories
 pages:
+- content/post/aktif-karbon-kullanımı-resimli-anlatım.md
 - content/post/hindistan-cevizli-rakı-yapımı-muhteşem-tat.md
 - content/post/portatif-damıtma-cihazı.md
 - content/post/hangi-i̇mbik-i̇şimi-görür.md
