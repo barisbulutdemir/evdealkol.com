@@ -15,8 +15,8 @@ fields:
   hidden: false
   config:
     required: false
-  label: url/
-  name: url/
+  label: url
+  name: url
   description: Adres ( Türkçe Karakter Olmadan)
 - type: text
   name: description
