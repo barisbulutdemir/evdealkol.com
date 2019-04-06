@@ -28,6 +28,7 @@ fields:
   name: categories
   label: categories
 pages:
+- content/post/hammaddeler-ve-şeker-oranları.md
 - content/post/i̇deal-fermantasyon-i̇çin-dikkat-edilmesi-gerekenler.md
 - content/post/düdüklü-tencereden-i̇mbik-yapımı-düşük-bütçeli-imbik.md
 - content/post/aktif-karbon-kullanımı-resimli-anlatım.md
