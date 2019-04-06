@@ -5,7 +5,7 @@ description = "Etil alkol nedir, Metil alkol nedir, hangi alkol türü içilir ,
 image = "/alkol2.jpg"
 tags = ["evde alkol yapımı", "Etil alkol nedir", "evde alkol üretimi", "evde alkol yapmak"]
 title = "Etil alkol ? Metil alkol ? Bize hangisi lazım ?"
-url = ""
+url = "etil-alkol-metil-alkol-bize-hangisi-gerekli"
 "url/" = "etil-alkol-metil-alkol-farklari"
 
 +++
