@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Üretim"]
 date = "2019-04-03T21:00:00+00:00"
 description = ""
 image = "/alkl-750x410.jpg"
