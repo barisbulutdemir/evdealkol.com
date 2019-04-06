@@ -12,6 +12,8 @@ url = ""
 
 Merhabalar .. Bu konumda size basit adımlarla en amatör şekilde evde nasıl alkol yapılabileceğini anlatıcam..
 
+<br>
+
 Yalnız en gerekli olan imbik olayı başlı başına bir konu olduğu için onu burda işlemiyorum. Başka bir konuda onun ayrıntılarına değinicem.
 
 Öncelikle yasal mevzuatından bahsediyim. **İçeceğiniz kadar üretirseniz problem yok. Maksimum yılda 350 litre. Satmak kesinlikle yasak. Satmaya kalkar ve yakalanırsanız gerçekten başınız ağrır.. Alkol kaçakçısı olarak suçlu duruma düşersiniz..**
