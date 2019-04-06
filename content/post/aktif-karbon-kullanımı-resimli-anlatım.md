@@ -54,6 +54,6 @@ Aktif karbon etil alkol seyreltilmeden ve karışım yapılmadan önce kullanıl
 
      Bir litre etil alkole 4 ml anason ekleyip anason yağını çözdük sonrada üzerine 1,1 litre su ekledik. Elimizdeki karışım rakı oldu, bu karışımı aktif karbondan geçirirsek rakı beyazlamaz, anason kokusu ve tadı kaybolur. Alkolün içindeki kokudan kurtulalım derken elimizdeki rakıdan oluruz. Bu durum tüm karışımlar içinde geçerlidir. Aktif karbon uygulaması %96 lık etil alkole yapılmalı daha sonra istenen karışımda kullanılmalıdır.Aktif karbon filtre hakkında elimden geldiğince açıklama yapmaya çalıştım, umarım yeteri kadar açık ve anlaşılır olmuştur.
 
-<br>
+<br><br>
 
 Aslında aktif karbon filtre işleminin o kadar da büyütülecek, karmaşık ve komplike bir işlem değil. Huni içine filtre kahve kağıdını koy, daha sonra yıkadığın aktif karbonu içine yerleştir. Al sana aktif karbon filtre.
