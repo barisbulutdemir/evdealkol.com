@@ -3,7 +3,7 @@ categories = ["tarifler"]
 date = "2019-04-04T00:00:00+03:00"
 description = "evde raki yapimi, hindistan cevizli rakı tarifi, evde alkol üretimi, evde rakı yapımı"
 image = "/hindistan.jpg"
-tags = ["evde alkol yapımı", "evde raki uretimi", "evde raki yapimi", "hindistan cevizli raki tarifi"]
+tags = ["Alkol Tarifleri", "evde alkol yapımı", "evde raki uretimi", "evde raki yapimi", "hindistan cevizli raki tarifi"]
 title = "Hindistan Cevizli Rakı Yapımı ( Muhteşem Tat )"
 url = "hindistan-cevizli-raki-tarifi"
 
