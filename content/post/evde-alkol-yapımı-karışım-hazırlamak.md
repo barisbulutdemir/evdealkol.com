@@ -29,7 +29,6 @@ Yalnız en gerekli olan imbik olayı başlı başına bir konu olduğu için onu
 * İnce akvaryum hortumlarından. Ortalama 50 cm yeterlidir.
 * Sıcak silikon
 * Alkolmetre
-* 
 
 Şekeri sıcak suda eritiyoruz ve oda sıcaklığına soğutuyoruz. Sonrasında bir huni yardımıyla damacananın içine koyuyoruz. Daha sonra damacananın üstüne 4 parmak kalıncaya kadar su ilave ediyoruz. Ardından üzül pekmezini ilave edip bir güzel çalkalıyoruz. Ki homojen bir karışım elde edelim. Her tarafına düzgünce eşit olarak dağılsın. En son olarak da mayamızı ekliyoruz.
 
