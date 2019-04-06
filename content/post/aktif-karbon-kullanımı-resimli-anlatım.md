@@ -40,7 +40,7 @@ url = "alkol-aktif-karbon-kullanimi"
 
 **Filtreleme Sayısı** <br>
 
-    Aktif karbon uygulamanın amacı, etil alkoldeki irite eden kokudan kurtulmaktır. Filtreleme işlemini şahsen üç – defa yapıyorum ama siz isterseniz bu sayısı daha da arttırabilirsiniz. Filtreleme sayısı arttıkça kokudan daha da uzaklaşırsınız. 10 defa filtreleme yapsanız daha da iyi olur ama tabiki bu sabır işi. Şahsen ben 10 defa yapmıyorum, üç – dört defa yapıp kullanıyorum. Aktif karbon filtre uygulandığında bir miktar alkol kaybı söz konusu olur ama bu miktar kabul edilebilir diye düşünüyorum. Dört defa karbondan geçirdiğim etil alkolü, alkolmetreyle ölçtüğümde %93 seviyesinde olduğunu gördüm. Bu kadar havayla temas eden etil alkolde bu kadar kayıp bence gayet normal.   
+         Aktif karbon uygulamanın amacı, etil alkoldeki irite eden kokudan kurtulmaktır. Filtreleme işlemini şahsen üç – defa yapıyorum ama siz isterseniz bu sayısı daha da arttırabilirsiniz. Filtreleme sayısı arttıkça kokudan daha da uzaklaşırsınız. 10 defa filtreleme yapsanız daha da iyi olur ama tabiki bu sabır işi. Şahsen ben 10 defa yapmıyorum, üç – dört defa yapıp kullanıyorum. Aktif karbon filtre uygulandığında bir miktar alkol kaybı söz konusu olur ama bu miktar kabul edilebilir diye düşünüyorum. Dört defa karbondan geçirdiğim etil alkolü, alkolmetreyle ölçtüğümde %93 seviyesinde olduğunu gördüm. Bu kadar havayla temas eden etil alkolde bu kadar kayıp bence gayet normal.   
 
 **Aktif Karbonun Kullanım Sayısı**
 
