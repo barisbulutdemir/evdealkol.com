@@ -28,7 +28,6 @@ fields:
   name: categories
   label: categories
 pages:
-- content/post/deneme.md
 - content/post/deneme-resimli-post.md
 - content/post/hindistan-cevizli-rakı-yapımı-muhteşem-tat.md
 - content/post/hammaddeler-ve-şeker-oranları.md
