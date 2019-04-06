@@ -1,11 +1,11 @@
 +++
-categories = []
+categories = ["uretim"]
 date = "2019-04-03T21:00:00+00:00"
 description = ""
 image = "/distile-628x410.jpg"
 tags = []
 title = "Portatif Damıtma Cihazı"
-url = "portatif-damitma-alkol-cihazi"
+url = ""
 
 +++
 Merhabalar ..
