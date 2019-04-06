@@ -6,7 +6,7 @@
     <p class = 'post_tag'>{{ range first 1 . }}<a href = '{{ $.Site.BaseURL }}tags/{{ . | urlize }}'>{{ . }}</a>{{ end }}</p>
     {{- end }}
     <h3 class = 'post_link'>
-      <a href='{{ .URL }}'>{{ .Title  }}</a>
+      <a href='{{ $.Site.BaseURL }}{{ .URL }}'>{{ .Title  }}</a>
     </h3>
     <p class = 'pale'>{{ .Summary | truncate 90 }}</p>
   </div>
