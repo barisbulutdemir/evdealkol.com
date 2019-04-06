@@ -50,9 +50,9 @@ Filtre kahve kağıdı tek kullanımlıktır. Zaten maliyeti çok düşük oldu�
 
 **Aktif Karbon Ne zaman Kullanılmalıdır?**
 
-Aktif karbon etil alkol seyreltilmeden ve karışım yapılmadan önce kullanılmalıdır, seyreltme ve karışım sonrasında kullanılması durumunda hem karışımın özelliğini bozar hem de su oranı alkol oranının üzerinde olduğu için istenmeyen kokuların yakalanmasını güçleştirir. Örneğin rakı yapıyoruz.
+    Aktif karbon etil alkol seyreltilmeden ve karışım yapılmadan önce kullanılmalıdır, seyreltme ve karışım sonrasında kullanılması durumunda hem karışımın özelliğini bozar hem de su oranı alkol oranının üzerinde olduğu için istenmeyen kokuların yakalanmasını güçleştirir. Örneğin rakı yapıyoruz.
 
-     Bir litre etil alkole 4 ml anason ekleyip anason yağını çözdük sonrada üzerine 1,1 litre su ekledik. Elimizdeki karışım rakı oldu, bu karışımı aktif karbondan geçirirsek rakı beyazlamaz, anason kokusu ve tadı kaybolur. Alkolün içindeki kokudan kurtulalım derken elimizdeki rakıdan oluruz. Bu durum tüm karışımlar içinde geçerlidir. Aktif karbon uygulaması %96 lık etil alkole yapılmalı daha sonra istenen karışımda kullanılmalıdır.Aktif karbon filtre hakkında elimden geldiğince açıklama yapmaya çalıştım, umarım yeteri kadar açık ve anlaşılır olmuştur.
+         Bir litre etil alkole 4 ml anason ekleyip anason yağını çözdük sonrada üzerine 1,1 litre su ekledik. Elimizdeki karışım rakı oldu, bu karışımı aktif karbondan geçirirsek rakı beyazlamaz, anason kokusu ve tadı kaybolur. Alkolün içindeki kokudan kurtulalım derken elimizdeki rakıdan oluruz. Bu durum tüm karışımlar içinde geçerlidir. Aktif karbon uygulaması %96 lık etil alkole yapılmalı daha sonra istenen karışımda kullanılmalıdır.Aktif karbon filtre hakkında elimden geldiğince açıklama yapmaya çalıştım, umarım yeteri kadar açık ve anlaşılır olmuştur.
 
 <br><br>
 
