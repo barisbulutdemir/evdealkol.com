@@ -12,7 +12,7 @@ weight = 2
 identifier = "blog"
 name = "Üretim"
 title = "blog section"
-url = "/blog/"
+url = "/categories/uretim/"
 weight = 1
 [params]
 description = "Evde alkol, meze ve ötesi"
