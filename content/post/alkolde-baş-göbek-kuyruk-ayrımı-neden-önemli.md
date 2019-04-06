@@ -5,6 +5,7 @@ description = ""
 image = "/alkl-750x410.jpg"
 tags = []
 title = "Alkolde Baş-Göbek-Kuyruk Ayrımı Neden Önemli?"
+url = "alkolde-bas-gobek-kuyruk-ayrimi"
 "url/" = "alkolde-bas-gobek-kuyruk-ayrimi"
 
 +++
