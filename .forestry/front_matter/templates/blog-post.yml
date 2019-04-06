@@ -28,11 +28,12 @@ fields:
   name: categories
   label: categories
 pages:
+- content/post/deneme-resimli-post.md
+- content/post/hindistan-cevizli-rakı-yapımı-muhteşem-tat.md
 - content/post/hammaddeler-ve-şeker-oranları.md
 - content/post/i̇deal-fermantasyon-i̇çin-dikkat-edilmesi-gerekenler.md
 - content/post/düdüklü-tencereden-i̇mbik-yapımı-düşük-bütçeli-imbik.md
 - content/post/aktif-karbon-kullanımı-resimli-anlatım.md
-- content/post/hindistan-cevizli-rakı-yapımı-muhteşem-tat.md
 - content/post/portatif-damıtma-cihazı.md
 - content/post/hangi-i̇mbik-i̇şimi-görür.md
 - content/post/alkolde-baş-göbek-kuyruk-ayrımı-neden-önemli.md
