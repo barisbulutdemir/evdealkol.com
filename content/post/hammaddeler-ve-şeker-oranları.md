@@ -14,4 +14,4 @@ url = "hammaddeler-meyveler-ve-seker-oranları"
 
 Hangi hammaddedenin ne kadar şeker oranı olduğunu gösteren tablo. Yani bir nevi hangi meyveden, hammaddeden en çok alkol alabiliriz. Bunun tablosu
 
-![](/sekerler.png)
+![hammadde](/sekerler.png "hammaddeler")
