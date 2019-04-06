@@ -18,7 +18,7 @@ url = "alkol-aktif-karbon-kullanimi"
 
 **Aktif Karbon Filtre Yapım Öncesi Hazırlık**
 
-    Akvaryumcudan alacağımız Aktif Karbon muhtemelen bir file içinde olacaktır. File içindeki aktif karbonu musluğun altında iyice yıkıyoruz. Ambalajdan çıkardığımız aktif karbonu yaklaşık olarak 15 dakika kadar musluğun altında yıkamak yeterli olacaktır.   
+         Akvaryumcudan alacağımız Aktif Karbon muhtemelen bir file içinde olacaktır. File içindeki aktif karbonu musluğun altında iyice yıkıyoruz. Ambalajdan çıkardığımız aktif karbonu yaklaşık olarak 15 dakika kadar musluğun altında yıkamak yeterli olacaktır.   
 
 ![Resim Ekleme](https://keyifleryerinde.com/wp-content/uploads/2019/03/2-768x1024.jpg)
 
