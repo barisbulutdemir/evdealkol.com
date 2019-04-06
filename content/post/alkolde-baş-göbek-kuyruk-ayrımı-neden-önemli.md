@@ -1,9 +1,9 @@
 +++
-categories = ["Üretim"]
+categories = ["Üretim", "Üretim"]
 date = "2019-04-03T21:00:00+00:00"
-description = ""
+description = "alkolde ayrım yapma, baş göbek kuyruk ayrımı yapma"
 image = "/alkl-750x410.jpg"
-tags = []
+tags = ["evde alkol yapımı", "alkolü damıtma", "baş göbek ayırma", "evde alkol üretimi"]
 title = "Alkolde Baş-Göbek-Kuyruk Ayrımı Neden Önemli?"
 url = "alkolde-bas-gobek-kuyruk-ayrimi"
 "url/" = "alkolde-bas-gobek-kuyruk-ayrimi"
