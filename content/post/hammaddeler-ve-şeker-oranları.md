@@ -12,16 +12,6 @@ url = "hammaddeler-meyveler-ve-seker-oranları"
 
 <br>
 
- **Hammaddeler        -             Şeker Oranları %**
+Hangi hammaddedenin ne kadar şeker oranı olduğunu gösteren tablo. Yani bir nevi hangi meyveden, hammaddeden en çok alkol alabiliriz. Bunun tablosu
 
-<hr>
-
-Armut                     -                          9.8
-
-<hr>
-
-Arpa Maltı                   -                     68
-
-<hr>
-
-Bal                                -                     80
+![](/sekerler.png)
