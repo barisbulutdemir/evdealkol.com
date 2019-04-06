@@ -16,4 +16,4 @@ Hangi hammaddedenin ne kadar şeker oranı olduğunu gösteren tablo. Yani bir n
 
 <br><br>
 
-![Resim Ekleme](https://altinmakas.net/dosyalar/yuklemeler/1-hammaddevesekeroranlari.jpg)
+![](/images/sekerler.png)
