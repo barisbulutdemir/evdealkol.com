@@ -5,7 +5,7 @@ description = "Evde alkol yapımı, mayşe hazırlanması, evde rakı yapımı, 
 image = "/mayse1.JPG"
 tags = ["evde alkol yapımı", "evde bira yapmak", "evde alkol üretimi", "evde rakı yapımı"]
 title = "Evde Alkol Yapımı ( Karışım Hazırlamak )"
-url = ""
+url = "evde-alkol-yapimi-karisim-mayse-hazirlamak"
 
 +++
 # Evde Alkol Yapımı (Karışım Hazırlamak)
