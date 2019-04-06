@@ -66,4 +66,4 @@ Bu işlemler bittikten sonra alkolü aktif karbondan geçirmenizi tavsiye ederim
 
 Sonrasında eğer istersek rakı , istersek vodka veya başka bir şekilde kullanabiliriz. Sitede birçok tarif mevcut. Daha da eklemeyi düşünüyorum.
 
-Aklınıza takılanları veya yanlış noktalarımı lütfen yorumlara bırakın.
+Aklınıza takılanları veya yanlış noktalarımı lütfen yorumlara bırakın..
