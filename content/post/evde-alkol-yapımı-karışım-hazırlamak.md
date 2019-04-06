@@ -5,6 +5,7 @@ description = "Evde alkol yapımı, mayşe hazırlanması, evde rakı yapımı, 
 image = "/mayse1.JPG"
 tags = ["evde alkol yapımı", "evde bira yapmak", "evde alkol üretimi", "evde rakı yapımı"]
 title = "Evde Alkol Yapımı ( Karışım Hazırlamak )"
+url = ""
 
 +++
 # Evde Alkol Yapımı (Karışım Hazırlamak)
@@ -28,6 +29,7 @@ Yalnız en gerekli olan imbik olayı başlı başına bir konu olduğu için onu
 * İnce akvaryum hortumlarından. Ortalama 50 cm yeterlidir.
 * Sıcak silikon
 * Alkolmetre
+* 
 
 Şekeri sıcak suda eritiyoruz ve oda sıcaklığına soğutuyoruz. Sonrasında bir huni yardımıyla damacananın içine koyuyoruz. Daha sonra damacananın üstüne 4 parmak kalıncaya kadar su ilave ediyoruz. Ardından üzül pekmezini ilave edip bir güzel çalkalıyoruz. Ki homojen bir karışım elde edelim. Her tarafına düzgünce eşit olarak dağılsın. En son olarak da mayamızı ekliyoruz.
 
