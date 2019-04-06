@@ -5,7 +5,7 @@ description = ""
 image = "/distile-628x410.jpg"
 tags = []
 title = "Portatif Damıtma Cihazı"
-url = ""
+url = "portatif-damitma-alkol-cihazi"
 
 +++
 Merhabalar ..
