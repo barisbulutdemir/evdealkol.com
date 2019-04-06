@@ -8,4 +8,4 @@ title = "deneme resimli post"
 url = ""
 
 +++
-![](/düdüklü tencere imbik.jpeg)![](/alkol3.jpg)
+![](/images/distile-628x410.jpg)
