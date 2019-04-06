@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["uretim"]
 date = "2019-04-03T21:00:00+00:00"
 description = "Seviyelere göre seçmeniz gereken imbikleri sizin için sundum."
 image = "/alkol-1-710x410.jpg"
