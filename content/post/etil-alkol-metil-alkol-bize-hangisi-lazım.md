@@ -5,12 +5,13 @@ description = "Etil alkol nedir, Metil alkol nedir, hangi alkol türü içilir ,
 image = "/alkol2.jpg"
 tags = ["evde alkol yapımı", "Etil alkol nedir", "evde alkol üretimi", "evde alkol yapmak"]
 title = "Etil alkol ? Metil alkol ? Bize hangisi lazım ?"
+url = ""
 "url/" = "etil-alkol-metil-alkol-farklari"
 
 +++
 # Etil alkol nedir ? Metil alkol nedir ? Bize hangisi lazım ?
 
-Öncelikle merhabalar..
+Öncelikle merhabalar...
 
 Alkol yapımındaki en önemli ve dikkat edilmesi gereken hususlardan biri de **etil akol** ve **metil alkolü** ayırmaktır. Bize gerekli olan içilebilir olan **etil alkoldür** . Bunu ayırmanın yolu da kaynama sıcaklığıdır. Metil alkolün kaynama sıcaklığı daha düşük olduğu için damıtma yaparken ilk olarak metil akol açığa çıkar. Bu yüzden videolarda gördüğünüz gibi çıkan alkolün belli bir kısmı atılır. Bu ortalama 50-100 ml arasındadır.
 
