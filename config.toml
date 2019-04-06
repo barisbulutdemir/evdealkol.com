@@ -1,7 +1,7 @@
 baseurl = "https://www.evdealkol.com/"
 canonifyurls = true
 copyright = "Copyright © 2019"
-paginate = 4
+paginate = 10
 theme = "swift"
 title = "Evde Alkol"
 [[menu.main]]
