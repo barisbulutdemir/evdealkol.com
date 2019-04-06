@@ -5,6 +5,7 @@ description = "Seviyelere göre seçmeniz gereken imbikleri sizin için sundum."
 image = "/alkol-1-710x410.jpg"
 tags = []
 title = "Hangi İmbik İşimi Görür ?"
+url = "hangi-imbik-isimi-gorur"
 
 +++
 Öncelikle Merhabalar..
