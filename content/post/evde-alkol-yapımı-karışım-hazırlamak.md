@@ -14,15 +14,15 @@ Merhabalar .. Bu konumda size basit adımlarla en amatör şekilde evde nasıl a
 
 <br>
 
-Yalnız en gerekli olan imbik olayı başlı başına bir konu olduğu için onu burda işlemiyorum. Başka bir konuda onun ayrıntılarına değinicem.<br>
+Yalnız en gerekli olan imbik olayı başlı başına bir konu olduğu için onu burda işlemiyorum. Başka bir konuda onun ayrıntılarına değinicem.<br><br>
 
-Öncelikle yasal mevzuatından bahsediyim. **İçeceğiniz kadar üretirseniz problem yok. Maksimum yılda 350 litre. Satmak kesinlikle yasak. Satmaya kalkar ve yakalanırsanız gerçekten başınız ağrır.. Alkol kaçakçısı olarak suçlu duruma düşersiniz..**<br>
+Öncelikle yasal mevzuatından bahsediyim. **İçeceğiniz kadar üretirseniz problem yok. Maksimum yılda 350 litre. Satmak kesinlikle yasak. Satmaya kalkar ve yakalanırsanız gerçekten başınız ağrır.. Alkol kaçakçısı olarak suçlu duruma düşersiniz..**<br><br>
 
-**_##_ Karışım Hazırlamak**<br>
+**_##_ Karışım Hazırlamak**<br><br>
 
 İlk olarak yapmamız gereken 3-4 hafta duracak bir karışım hazırlamak.(Buna mayşe diyoruz) _Ufak bir bilgi: İçinde şeker barındıran herşeyden alkol yapabilirsiniz. Evet mandalinadan bile :)_ Biz şuan en teferruatsız ve masrafsız şekilde hazırlicaz. Başka bir konuda meyvelerin, hammaddelerin şeker oranlarını paylaşıcam. En kolay hangi meyveden neyden yapılabilir ordan bakabilirsiniz.( linki: )<br>
 
-**Gerekli Malzemeler:**<br>
+**Gerekli Malzemeler:**<br><br>
 
 * Bir su damacanası_(Yalnız bunu iyi temizlememiz gerekli. Sıcak su sabun filan sağlam bi temizleyin)_
 * 2 kilo şeker
@@ -30,7 +30,7 @@ Yalnız en gerekli olan imbik olayı başlı başına bir konu olduğu için onu
 * 250 gr üzüm pekmezi
 * İnce akvaryum hortumlarından. Ortalama 50 cm yeterlidir.
 * Sıcak silikon
-* Alkolmetre 
+* Alkolmetre
 * <br>
 
 Şekeri sıcak suda eritiyoruz ve oda sıcaklığına soğutuyoruz. Sonrasında bir huni yardımıyla damacananın içine koyuyoruz. Daha sonra damacananın üstüne 4 parmak kalıncaya kadar su ilave ediyoruz. Ardından üzül pekmezini ilave edip bir güzel çalkalıyoruz. Ki homojen bir karışım elde edelim. Her tarafına düzgünce eşit olarak dağılsın. En son olarak da mayamızı ekliyoruz.<br>
