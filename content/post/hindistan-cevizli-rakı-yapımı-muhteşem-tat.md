@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["tarifler"]
 date = "2019-04-04T00:00:00+03:00"
 description = "evde raki yapimi, hindistan cevizli rakı tarifi, evde alkol üretimi, evde rakı yapımı"
 image = "/hindistancevizi.jpg"
