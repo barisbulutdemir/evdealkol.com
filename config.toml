@@ -5,6 +5,10 @@ paginate = 4
 theme = "swift"
 title = "Evde Alkol"
 [[menu.main]]
+name = "Gizlilik"
+url = "https://evdealkol.com/gizlilik/"
+weight = 2
+[[menu.main]]
 identifier = "blog"
 name = "Üretim"
 title = "blog section"
