@@ -8,4 +8,7 @@ title = "Hammaddeler ve Şeker Oranları"
 url = "hammaddeler-meyveler-ve-seker-oranları"
 
 +++
+# Alkol üretiminde kullanılan hammaddeler ve şeker oranları
+
+#   
 ![](/hammaddevesekeroranları.jpg)
