@@ -10,7 +10,7 @@ url = "alkol-aktif-karbon-kullanimi"
 +++
 # Aktif Karbon Kullanımı
 
- Etil alkolde bulunan kokuyu azaltmak için aktif karbon filtre den geçirilmesi en pratik yöntemdir. Bu yazıda etil alkolün geçirileceği karbon filtrenin en pratik şekilde nasıl yapılacağını fotoğraflarla anlatmaya çalıştım. Nasıl yapıldığı, kullanılan malzemeler, hazırlık aşaması, kullanım sayısı, temizliği ve muhafazası hakkında çeşitli bilgiler vermeye çalıştım.
+Etil alkolde bulunan kokuyu azaltmak için aktif karbon filtre den geçirilmesi en pratik yöntemdir. Bu yazıda etil alkolün geçirileceği karbon filtrenin en pratik şekilde nasıl yapılacağını fotoğraflarla anlatmaya çalıştım. Nasıl yapıldığı, kullanılan malzemeler, hazırlık aşaması, kullanım sayısı, temizliği ve muhafazası hakkında çeşitli bilgiler vermeye çalıştım.
 
 **Aktif Karbon Filtre Yapımı İçin Gerekli Malzemeler**
 
@@ -42,7 +42,7 @@ Aktif karbon uygulamanın amacı, etil alkoldeki irite eden kokudan kurtulmaktı
 
 **Aktif Karbonun Kullanım Sayısı**
 
-En çok aldığım sorulardan biride kullanım sayısı oluyor. Aktif karbon kaç defa kullanılabilir? Kullanım sayısı var mı? Kullanım ömrü var mı? Şeklinde sorular geliyor. Bu sorulara verdiğim yanıt “ aktif karbonun kullanım sayısı, sınırı yada etkili kullanım süresi gibi bir sınırlamayı yoktur, kullanmadan önce ve sonra iyice yıkanmalı ve temizliğine özen gösterilmelidir”. Aktif karbon defalarca kullanılabilir, tek kullanımlık değildir.
+ Aktif karbon kaç defa kullanılabilir? Kullanım sayısı var mı? Kullanım ömrü var mı? Şeklinde sorular geliyor. Bu sorulara verdiğim yanıt “ aktif karbonun kullanım sayısı, sınırı yada etkili kullanım süresi gibi bir sınırlamayı yoktur, kullanmadan önce ve sonra iyice yıkanmalı ve temizliğine özen gösterilmelidir”. Aktif karbon defalarca kullanılabilir, tek kullanımlık değildir.
 
 Filtre kahve kağıdı tek kullanımlıktır. Zaten maliyeti çok düşük olduğu ve alkolle ıslandıktan sonra mukavemeti düştüğü için kullan – at tarzında bir ürün olarak düşünülebilir. Zaten imal edilirken de bu mantıkla üretilen bir ürün. Filtre kahve makinesinin içinde tek kullanım sonrası atılan bir ürün.
 
