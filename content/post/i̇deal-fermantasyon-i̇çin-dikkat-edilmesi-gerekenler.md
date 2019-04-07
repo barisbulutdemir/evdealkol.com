@@ -10,7 +10,7 @@ url = "fermantasyon-icin-dikkat-edilmesi-gerekenler"
 +++
 # İdeal Fermantasyon İçin Dikkat Edilmesi Gerekenler
 
-![](/images/maise.jpg)
+![](/images/maise.jpg "maise")
 
 <br>
 
