@@ -2,7 +2,7 @@
 categories = []
 date = "2019-04-04T00:00:00+03:00"
 description = "Alkol üretüminde akif karbon kullanımı, aktif karbon ne işe yarar?"
-image = "/aktifkarbon.jpg"
+image = "/images/aktifkarbon.jpg"
 tags = ["evde alkol yapımı", "aktif karbon ne işe yarar", "aktif karbon kullanımı", "evde alkol üretimi", "evde rakı üretimi"]
 title = "Aktif Karbon Kullanımı ( Resimli Anlatım )"
 url = "alkol-aktif-karbon-kullanimi"
