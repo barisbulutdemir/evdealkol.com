@@ -1,5 +1,5 @@
 {{ define "main" }}
-<section class = 'post_header' style = 'background-image:url({{ .Site.BaseURL }}images/{{ .Params.image }});'>
+<section class = 'post_header' style = 'background-image:url({{ .Site.BaseURL }}{{ .Params.image }});'>
   <h1 class='post_title' itemprop='name headline'>{{ .Title }}</h1>
   {{ $author := (lower .Params.author) }}
   {{ $reading := .ReadingTime }}
