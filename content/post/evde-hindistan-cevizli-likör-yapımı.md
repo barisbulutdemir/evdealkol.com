@@ -10,7 +10,7 @@ url = "evde-hindistan-cevizi-likor-yapimi"
 +++
 # Evde Hindistan Cevizli Likör Yapımı
 
-<br>
+<br> 
 
 Merhabalar... Bu yazımda size hindistan cevizli likör nasıl yapılır en basit çekilde anlatmaya çalışıcam.
 
