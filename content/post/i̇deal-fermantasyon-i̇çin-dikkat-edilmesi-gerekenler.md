@@ -10,7 +10,7 @@ url = "fermantasyon-icin-dikkat-edilmesi-gerekenler"
 +++
 # İdeal Fermantasyon İçin Dikkat Edilmesi Gerekenler
 
-![Resim Ekleme](https://keyifleryerinde.com/wp-content/uploads/2018/08/mai%C5%9Fe-2-1024x842.jpg)
+![](/images/maise.jpg)
 
 <br>
 
