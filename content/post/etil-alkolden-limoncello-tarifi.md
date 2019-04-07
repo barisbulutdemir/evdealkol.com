@@ -1,11 +1,11 @@
 +++
 categories = []
 date = "2019-04-07T00:00:00+03:00"
-description = ""
+description = "evde etil alkolden limoncello yapılışı, evde vodka yapımı"
 image = "/images/limoncello.jpg"
-tags = []
+tags = ["Alkol Tarifleri", "alkol damıtma", "evde alkol üretimi", "evde limoncello yapımı"]
 title = "Etil Alkolden Limoncello Tarifi"
-url = ""
+url = "evde-etil-alkol-limoncello-tarifi"
 
 +++
 # Etil Alkolden Limoncello Yapımı
