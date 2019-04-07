@@ -2,7 +2,7 @@
 categories = ["Üretim"]
 date = "2019-04-04T00:00:00+03:00"
 description = "Evde alkol yapımı, mayşe hazırlanması, evde rakı yapımı, meze ve ötesi"
-image = "/mayse1.JPG"
+image = "/images/mayse1.JPG"
 tags = ["evde alkol yapımı", "evde bira yapmak", "evde alkol üretimi", "evde rakı yapımı"]
 title = "Evde Alkol Yapımı ( Karışım Hazırlamak )"
 url = "evde-alkol-yapimi-karisim-mayse-hazirlamak"
