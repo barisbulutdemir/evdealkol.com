@@ -2,7 +2,7 @@
 categories = []
 date = "2019-04-04T00:00:00+03:00"
 description = "Düdüklü tencereden imbik yapımı, alkol üretimi, rakı yapımı"
-image = "/düdüklü tencere imbik.jpeg"
+image = "/images/düdüklü tencere imbik.jpeg"
 tags = ["evde alkol yapımı", "evde alkol üretimi", "evde imbik yapımı ", "düdüklü tencereden alkol üretimi", "düdüklü tencreden imbik"]
 title = "Düdüklü Tencereden  İmbik Yapımı ( Düşük bütçeli imbik )"
 url = "duduklu-tencereden-imbik-dusuk-butceli-imbik"
@@ -56,4 +56,4 @@ Birde termostat meselesi var. Düdüklü tencernin üstünde 2 adet düdük oluy
 Ve imbiğimiz hazır :)   
 <br>  
   
-Nacizane tavsiyem elektrikli bir ocak kullanmanızda. Sıcaklık kontrolünü daha rahat sağlayabilirsiniz. 
+Nacizane tavsiyem elektrikli bir ocak kullanmanızda. Sıcaklık kontrolünü daha rahat sağlayabilirsiniz.
