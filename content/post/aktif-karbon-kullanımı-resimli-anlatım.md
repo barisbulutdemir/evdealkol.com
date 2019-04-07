@@ -10,48 +10,48 @@ url = "alkol-aktif-karbon-kullanimi"
 +++
 # Aktif Karbon Kullanımı
 
-Etil alkolde bulunan kokuyu azaltmak için aktif karbon filtre den geçirilmesi en pratik yöntemdir. Bu yazıda etil alkolün geçirileceği karbon filtrenin en pratik şekilde nasıl yapılacağını fotoğraflarla anlatmaya çalıştım. Nasıl yapıldığı, kullanılan malzemeler, hazırlık aşaması, kullanım sayısı, temizliği ve muhafazası hakkında çeşitli bilgiler vermeye çalıştım.
+   Etil alkolde bulunan kokuyu ve diğer şeyleri almanın, içimini hafifleştirip güzelleştirmenin en pratik yöntemi aktif karbon uygulamasıdır. Şimdi bu yazıda size nasıl aktif karbon uygualanabileceğini ve detaylarını anlatıcam
 
-**Aktif Karbon Filtre Yapımı İçin Gerekli Malzemeler**
+**Aktif Karbon  Yapımı İçin Gerekli Malzemeler**
 
-![](https://keyifleryerinde.com/wp-content/uploads/2019/03/1-1024x768.jpg)
+![](/images/aktifkarbon1.jpg "aktifkarbon")
 
-**Aktif Karbon Filtre Yapım Öncesi Hazırlık**
+**Aktif Karbon Filtreleme Öncesi Hazırlık**
 
-Akvaryumcudan alacağımız Aktif Karbon muhtemelen bir file içinde olacaktır. File içindeki aktif karbonu musluğun altında iyice yıkıyoruz. Ambalajdan çıkardığımız aktif karbonu yaklaşık olarak 15 dakika kadar musluğun altında yıkamak yeterli olacaktır.
+  Akvaryumcudan yada başka bir yerden alacağınız karbonlar büyük  ihtimalle file içinde olacaktır. Bunlar bir kaç kere yıkayıp iyice temizlemenizi  tavsiye ediyorum. Şöyle bi 10-15 dk suyun içinde dursun.
 
-![](https://keyifleryerinde.com/wp-content/uploads/2019/03/2-768x1024.jpg)
+![](/images/aktifkarbon2.jpg)
 
-Burada amacımız kömür tozundan kurtulmak. 15 dakikadan daha fazla yıkayabilirsiniz ama bence 15 dakika yeterli olacaktır. Yıkadıktan sonra aktif karbon filesini çalkaladığınız müddetçe siyah bir renk akmaya devam edecektir. Kaba tabirle çamaşırı çitiler gibi çitilemeyin. Filtre kahve kağıdıyla siyah rengin önüne geçebiliriz.
+   Burdaki amacımız üstündeki tozdan kurtulmak. Eğer kalkıp çitilerseniz çamaşır gibi, o toz hiç bitmez. O yüzden fazla oynamayın. 10-15 dk su da durması yeterli bir süre.
 
-**Huni içine filtre kahve kağıdının yerleştirilmesi**
+**Huninin içine filtre kağıdını yerleştirin**
 
 ![](https://keyifleryerinde.com/wp-content/uploads/2019/03/3-1024x768.jpg)
 
-**Aktif karbonun filtre kahve kağıdı içine dökme**
+**Aktif karbonu filtre kağıdının içine dökün**
 
 ![](https://keyifleryerinde.com/wp-content/uploads/2019/03/4-768x1024.jpg)
 
-**Filtreleme İşlemi**
+**Filtreleme**
 
 ![](https://keyifleryerinde.com/wp-content/uploads/2019/03/5-1024x768.jpg)
 
 **Filtreleme Sayısı**
 
-Aktif karbon uygulamanın amacı, etil alkoldeki irite eden kokudan kurtulmaktır. Filtreleme işlemini şahsen üç – defa yapıyorum ama siz isterseniz bu sayısı daha da arttırabilirsiniz. Filtreleme sayısı arttıkça kokudan daha da uzaklaşırsınız. 10 defa filtreleme yapsanız daha da iyi olur ama tabiki bu sabır işi. Şahsen ben 10 defa yapmıyorum, üç – dört defa yapıp kullanıyorum. Aktif karbon filtre uygulandığında bir miktar alkol kaybı söz konusu olur ama bu miktar kabul edilebilir diye düşünüyorum. Dört defa karbondan geçirdiğim etil alkolü, alkolmetreyle ölçtüğümde %93 seviyesinde olduğunu gördüm. Bu kadar havayla temas eden etil alkolde bu kadar kayıp bence gayet normal.<br><br>
+   Aktif karbon filtresi uygulamamızdaki amaç, bu ürettiğimiz alkolün içinde istenmeyen kokuları almak. Yoksa pek hoş olmuyor kokusu. Ve aynı zamanda içimini daha da hafifleştiriyoruz. 3-4 kere yapmanız yeterli bu işlemi. 10 kere yapsanız da olur ama sabır işi tabi. Şahsen ben 10 kere yapmıyorum, 3-4 defa yapıp bırakıyorum.Karbon filtre uygulandığında ufak dozda bi alkol kaybı olur ancak öyle pek aman aman bi kayıp değil yani. 4 defa karbon filtre uyguladığım alkol ortalama %93  e filan düşüyor. O kadar havayla temas eden bi alkol için bence normal.<br><br>
 
-**Aktif Karbonun Kullanım Sayısı**
+**Aktif Karbon Kullanım Sayısı**
 
- Aktif karbon kaç defa kullanılabilir? Kullanım sayısı var mı? Kullanım ömrü var mı? Şeklinde sorular geliyor. Bu sorulara verdiğim yanıt “ aktif karbonun kullanım sayısı, sınırı yada etkili kullanım süresi gibi bir sınırlamayı yoktur, kullanmadan önce ve sonra iyice yıkanmalı ve temizliğine özen gösterilmelidir”. Aktif karbon defalarca kullanılabilir, tek kullanımlık değildir.
+Aktif karbon tek kullanımlık değildir. Baya uzun zaman işinizi görür yani.
 
-Filtre kahve kağıdı tek kullanımlıktır. Zaten maliyeti çok düşük olduğu ve alkolle ıslandıktan sonra mukavemeti düştüğü için kullan – at tarzında bir ürün olarak düşünülebilir. Zaten imal edilirken de bu mantıkla üretilen bir ürün. Filtre kahve makinesinin içinde tek kullanım sonrası atılan bir ürün.<br><br>
+Filtre kahve kağıdı zaten üretim amacı kullan-at olduğu için o tek kullanımlıktır. Zaten pek bir maliyeti olmadığı için çok problem yaratmıyor. Markette internette filan çok rahat bulabilirsiniz.<br><br>
 
-**Aktif Karbon Ne zaman Kullanılmalıdır?**
+**Aktif Karbon Filtre Ne zaman Kullanılmalıdır?**
 
-Aktif karbon etil alkol seyreltilmeden ve karışım yapılmadan önce kullanılmalıdır, seyreltme ve karışım sonrasında kullanılması durumunda hem karışımın özelliğini bozar hem de su oranı alkol oranının üzerinde olduğu için istenmeyen kokuların yakalanmasını güçleştirir.<br><br>
+Karbon filtre alkol seyreltilmeden veya aromalandırmadan yapılmalıdır. Yani alkol saf haldeyken. Seyreltildikten, su katıldıktan sonra yapılırsa istenmeyen kokularn yakalanmasını güçleştirir. O yüzden alkol saf haldeyken yapılmasını tavsiye ediyorum.<br><br>
 
-**Örneğin rakı yapıyoruz.**
+**Mesela rakı yapıyoruz.**
 
-Bir litre etil alkole 4 ml anason ekleyip anason yağını çözdük sonrada üzerine 1,1 litre su ekledik. Elimizdeki karışım rakı oldu, bu karışımı aktif karbondan geçirirsek rakı beyazlamaz, anason kokusu ve tadı kaybolur. Alkolün içindeki kokudan kurtulalım derken elimizdeki rakıdan oluruz. Bu durum tüm karışımlar içinde geçerlidir. Aktif karbon uygulaması %96 lık etil alkole yapılmalı daha sonra istenen karışımda kullanılmalıdır.Aktif karbon filtre hakkında elimden geldiğince açıklama yapmaya çalıştım, umarım yeteri kadar açık ve anlaşılır olmuştur.<br>
+    Diyelim ki 1 litrelik bir rakı yapıcaz. Elimizdeki alkole anasonumuzu ve suyumuzu  tarifimize göre ekledik. Daha sonra aktif karbon filtre uygulamak istedik. Bu durumda rakı beyazlamaz ve anason kokusu, tadı pek gelmez. İstenmeyen kokulardan kurtulalım derken rakımızdan oluruz. O yüzden alkol saf haldeyken aktif karbon uygulanmalıdır. Aktif karbon hakkında bilgilerimi aktarmaya çalıştım. Umarım açıklayıcı ve bilgilendirici olmuştur.<br>
 
-Aslında aktif karbon filtre işleminin o kadar da büyütülecek, karmaşık ve komplike bir işlem değil. Huni içine filtre kahve kağıdını koy, daha sonra yıkadığın aktif karbonu içine yerleştir. Al sana aktif karbon filtre.
+   Sonuç olarak aktif karbon o kadar da komplike , sorunlu bir olay değildir. Huninin içine filtre kağıdını koy, için karbonu koy ve alkolü sal gitsin  :) bu kadar
