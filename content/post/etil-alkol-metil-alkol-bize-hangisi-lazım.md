@@ -2,7 +2,7 @@
 categories = ["uretim"]
 date = "2019-04-04T00:00:00+03:00"
 description = "Etil alkol nedir, Metil alkol nedir, hangi alkol türü içilir , Evde alkol yapımı"
-image = "/alkol2.jpg"
+image = "/images/alkol2.jpg"
 tags = ["evde alkol yapımı", "Etil alkol nedir", "evde alkol üretimi", "evde alkol yapmak"]
 title = "Etil alkol ? Metil alkol ? Bize hangisi lazım ?"
 url = "etil-alkol-metil-alkol-bize-hangisi-gerekli"
