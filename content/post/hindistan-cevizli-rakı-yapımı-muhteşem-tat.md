@@ -2,13 +2,13 @@
 categories = ["tarifler"]
 date = "2019-04-04T00:00:00+03:00"
 description = "evde raki yapimi, hindistan cevizli rakı tarifi, evde alkol üretimi, evde rakı yapımı"
-image = "/hindistan.jpg"
+image = "/images/hindistan.jpg"
 tags = ["Alkol Tarifleri", "evde alkol yapımı", "evde raki uretimi", "evde raki yapimi", "hindistan cevizli raki tarifi"]
 title = "Hindistan Cevizli Rakı Yapımı ( Muhteşem Tat )"
 url = "hindistan-cevizli-raki-tarifi"
 
 +++
-     Evde hobi amaçlı likör yapılırken “tarımsal kökenli evsel kullanım amaçlı etil alkol” kullanılabilir. Etil alkol büyük marketlerde veya internette  satılıyor. Son dönemlerde içine acı madde eklense de bazı marketlerin stoklarında acı bileşen eklenmemiş etil alkol bulunabiliyor. Votkadan farklı olarak etil alkolde seyreltmeyi biraz daha fazla yapmamız gerekecek çünkü etil alkoldeki oran %96 benim istediğim oran %20 civarında olacak. Etil alkol kullanırken işlem sıralaması değişmiyor;
+Evde hobi amaçlı likör yapılırken “tarımsal kökenli evsel kullanım amaçlı etil alkol” kullanılabilir. Etil alkol büyük marketlerde veya internette  satılıyor. Son dönemlerde içine acı madde eklense de bazı marketlerin stoklarında acı bileşen eklenmemiş etil alkol bulunabiliyor. Votkadan farklı olarak etil alkolde seyreltmeyi biraz daha fazla yapmamız gerekecek çünkü etil alkoldeki oran %96 benim istediğim oran %20 civarında olacak. Etil alkol kullanırken işlem sıralaması değişmiyor;
 
 <br><br>  
 **Kullanılacak Malzemeler:** <br><br>
