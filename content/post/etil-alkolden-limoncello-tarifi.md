@@ -31,7 +31,7 @@ Not: Alkol oranı kendi isteğinize bağlı. Mesela ben vodka gibi değil de dah
 
 1. Önce alkolümüzü bi aktif karbon filtreden geçiriyoruz. Eğer bilmiyorsanız bu işlemi sitede detaylı anlatımı var.
 2. Daha sonra limonlarımızın sadece dış kabuklarını. Beyaz kısmı bize lazım değil. Unutmayın.
-3. Kabukları soyduktan sonra bir kavanozun içine atıyoruz. 
+3. Kabukları soyduktan sonra bir kavanozun içine atıyoruz.
 4. Üstüne alkolümüzü ekleyip 15 gün kadar karanlıkta bekletiyoruz.
 5. Arada bi çalkalayın tabi.
 6. 15 gün sonra alkolümüzün içindeki limonları bir tülbent veya ona benzer birşey yardımıyla süzüyoruz.
@@ -41,6 +41,6 @@ Not: Alkol oranı kendi isteğinize bağlı. Mesela ben vodka gibi değil de dah
 
 ![limoncello](/images/limoncello1.jpg "limoncello")
 
-<br> 
+<br>
 
-Daha sonra afiyetle içebilirsiniz.. 
+Daha sonra afiyetle içebilirsiniz..
