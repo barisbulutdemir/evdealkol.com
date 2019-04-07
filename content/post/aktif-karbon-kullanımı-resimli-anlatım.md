@@ -26,15 +26,15 @@ url = "alkol-aktif-karbon-kullanimi"
 
 **Huninin içine filtre kağıdını yerleştirin**
 
-![](https://keyifleryerinde.com/wp-content/uploads/2019/03/3-1024x768.jpg)
+![](/images/aktifkarobnn.jpg)
 
 **Aktif karbonu filtre kağıdının içine dökün**
 
-![](https://keyifleryerinde.com/wp-content/uploads/2019/03/4-768x1024.jpg)
+![](/images/aktifkarbon4.jpg)
 
 **Filtreleme**
 
-![](https://keyifleryerinde.com/wp-content/uploads/2019/03/5-1024x768.jpg)
+![](/images/aktifkarbon5.jpg)
 
 **Filtreleme Sayısı**
 
