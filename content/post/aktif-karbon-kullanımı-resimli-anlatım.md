@@ -40,7 +40,7 @@ Burdaki amacımız üstündeki tozdan kurtulmak. Eğer kalkıp çitilerseniz ça
 
 Aktif karbon filtresi uygulamamızdaki amaç, bu ürettiğimiz alkolün içinde istenmeyen kokuları almak. Yoksa pek hoş olmuyor kokusu. Ve aynı zamanda içimini daha da hafifleştiriyoruz. 3-4 kere yapmanız yeterli bu işlemi. 10 kere yapsanız da olur ama sabır işi tabi. Şahsen ben 10 kere yapmıyorum, 3-4 defa yapıp bırakıyorum.Karbon filtre uygulandığında ufak dozda bi alkol kaybı olur ancak öyle pek aman aman bi kayıp değil yani. 4 defa karbon filtre uyguladığım alkol ortalama %93  e filan düşüyor. O kadar havayla temas eden bi alkol için bence normal.
 
-<br><br>
+<br>
 
 **Aktif Karbon Kullanım Sayısı**
 
