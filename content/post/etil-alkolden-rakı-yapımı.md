@@ -8,8 +8,6 @@ title = "Etil Alkolden Rakı Yapımı"
 url = "etil-alkolden-raki-yapimi"
 
 +++
-                ![](/images/raki.Jpeg)
-
 # Etil Alkolden Rakı Yapımı
 
 <br>
