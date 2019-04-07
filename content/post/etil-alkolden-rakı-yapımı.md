@@ -2,7 +2,6 @@
 categories = ["tarifler"]
 date = "2019-04-04T00:00:00+03:00"
 description = "etil alkolden evde rakı yapımı, evde rakı yapımı, evde alkol üretimi, alkol tarifleri"
-draft = true
 image = "/images/raki.Jpeg"
 tags = ["alkol tarifleri", "evde etil alkol", "etil alkolden rakı  yapmak", "evde alkol üretimi", "evde rakı yapımı"]
 title = "Etil Alkolden Rakı Yapımı"
