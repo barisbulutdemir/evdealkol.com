@@ -2,7 +2,7 @@
 categories = []
 date = "2019-04-04T00:00:00+03:00"
 description = "İdeal fermantasyon nasıl olur ? Nasıl sağlanır, Evde alkol yapımı, Evde rakı yapımı"
-image = "/alkol3.jpg"
+image = "/images/alkol3.jpg"
 tags = ["evde alkol yapımı", "kendi alkolünü yapma", "evde vodka üretimi", "ideal fermantasyon", "Evde rakı yapımı"]
 title = "İdeal Fermantasyon İçin Dikkat Edilmesi Gerekenler"
 url = "fermantasyon-icin-dikkat-edilmesi-gerekenler"
