@@ -42,4 +42,4 @@ Bunu sadece  rakı ve türevi içkiler için öneriyorum. Bira ve şarap yapım�
 
 Burda videosunu da bulabilirsiniz..  Referans aldığım link :
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/vTVqi4bX_W4](https://www.youtube.com/embed/vTVqi4bX_W4 "https://www.youtube.com/embed/vTVqi4bX_W4")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[https://www.youtube.com/embed/vTVqi4bX_W4](https://www.youtube.com/embed/vTVqi4bX_W4 "https://www.youtube.com/embed/vTVqi4bX_W4")
