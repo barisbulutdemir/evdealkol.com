@@ -10,9 +10,9 @@ url = "evde-etil-alkolden-vodka-yapmimi"
 +++
 # Evde Vodka Yapımı
 
-  Merhabalar öncelikle...
+Merhabalar öncelikle...
 
-    Bu yazımda size evde en kolay biçimde vodka nasıl yapılır onu anlatıcam. Evde vodka yapmak çok zor olmayan bir olay gerçekten. Gelelim gerekli malzemelere.
+   Bu yazımda size evde en kolay biçimde vodka nasıl yapılır onu anlatıcam. Evde vodka yapmak çok zor olmayan bir olay gerçekten. Gelelim gerekli malzemelere.
 
 **Gerekli malzemeler**
 
@@ -29,7 +29,7 @@ url = "evde-etil-alkolden-vodka-yapmimi"
 3. Ben %96 lıktan yola çıkarak 600 ml su dedim.
 4. Aktif karbondan geçirdikten sonra alkolümüz bir kenarda dursun.
 5. Suyun içine şekerleri atıp kısık ateşte biraz ısıtıyoruz. Şekerler komple eridikten sonra soğutmaya bırakyoruz.
-6. Soğuduktan sonra içine 3-4 damla ardıç yağı atıp  karıştırıyoruz. 
+6. Soğuduktan sonra içine 3-4 damla ardıç yağı atıp  karıştırıyoruz.
 7. Sonrasında alkolün içine atıyoruz.
 8. 1-2 ışık almayan yerde beklemesinde fayda var.
 9. Daha sonra istediğiniz gibi tüketebilirsiniz.
