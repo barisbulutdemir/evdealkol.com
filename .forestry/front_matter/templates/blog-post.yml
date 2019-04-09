@@ -28,6 +28,7 @@ fields:
   name: categories
   label: categories
 pages:
+- content/post/alkol-üretiminde-turbo-maya-ve-maya-besini.md
 - content/post/etil-alkolden-vodka-yapımı.md
 - content/post/evde-alkol-üretmek-başlangıç-1.md
 - content/post/etil-alkolden-limoncello-tarifi.md
