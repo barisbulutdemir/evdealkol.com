@@ -10,15 +10,13 @@ url = "alkol-uretiminde-turbo-maya"
 +++
 # Alkol Üretiminde Kullanılan Turbo Maya ve Maya Besini
 
-   Merhabalar....
+Merhabalar
 
-    Alkol üretiminde bildiğiniz gibi bazı durumlar dışında maya kullanıyoruz. Bazı durumlar dediklerimde mesela : Eğer elimizde yaş beyaz üzüm varsa bunda maya kullanmamızı tavsiye etmem. Çünkü üzümün kabuğu zaten maya görevi görebiliyor..
+    Alkol üretiminde bildiğiniz gibi bazı durumlar dışında maya kullanıyoruz. Bazı durumlar dediklerimde mesela : Eğer elimizde yaş beyaz üzüm varsa bunda maya kullanmamızı tavsiye etmem. Çünkü üzümün kabuğu zaten maya görevi görebiliyor.
 
-Fermantasyon süreleri bildiğiniz gibi biraz uzun olabiliyor. Bunu kısaltmak için genelde turbo maya ve maya besini kullanılıyor. Turbo maya fiyatları ortalama 25 liradan başlayıp yükseliyor.  Markasına göre fiyatı da yükseliyor.
+    Fermantasyon süreleri bildiğiniz gibi biraz uzun olabiliyor. Bunu kısaltmak için genelde turbo maya ve maya besini kullanılıyor. Turbo maya fiyatları ortalama 25 liradan başlayıp yükseliyor.  Markasına göre fiyatı da yükseliyor.<br>
 
-<br>
-
-     Eğer maliyet konusunda çekingenseniz, turbo maya kullanmak istemezseniz, evde maya besini yaparak da fermantasyonu kısaltabiliriz..
+    Eğer maliyet konusunda çekingenseniz, turbo maya kullanmak istemezseniz, evde maya besini yaparak da fermantasyonu kısaltabiliriz.
 
 **Nasıl yapacağımıza  gelecek olursak :**
 
