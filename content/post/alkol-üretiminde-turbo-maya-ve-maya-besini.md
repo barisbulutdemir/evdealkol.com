@@ -18,7 +18,7 @@ Fermantasyon süreleri bildiğiniz gibi biraz uzun olabiliyor. Bunu kısaltmak i
 
 <br>
 
-    Eğer maliyet konusunda çekingenseniz, turbo maya kullanmak istemezseniz, evde maya besini yaparak da fermantasyonu kısaltabiliriz.
+     Eğer maliyet konusunda çekingenseniz, turbo maya kullanmak istemezseniz, evde maya besini yaparak da fermantasyonu kısaltabiliriz..
 
 **Nasıl yapacağımıza  gelecek olursak :**
 
